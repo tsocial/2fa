@@ -34,6 +34,10 @@ least one-minute accuracy.
 
 The keychain is stored unencrypted in the text file `$HOME/.2fa`.
 
+## Build
+
+    make build
+
 ## Example
 
 During GitHub 2FA setup, at the “Scan this barcode with your app” step,
